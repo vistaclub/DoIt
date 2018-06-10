@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					15903FB520CDC4620041B4B7 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = CFF46R89P9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -266,6 +267,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CFF46R89P9;
 				INFOPLIST_FILE = DoIt/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xmatters.evo.DoIt;
@@ -278,6 +280,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CFF46R89P9;
 				INFOPLIST_FILE = DoIt/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xmatters.evo.DoIt;
